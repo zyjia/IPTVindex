@@ -1,5 +1,8 @@
 # This is a basic workflow to help you get started with Actions
 # https://raw.githubusercontent.com/hfpiao/IPTV/main/.github/workflows/updateIPTV.yml
+# https://raw.githubusercontent.com/week9/AUTO-IPTV/main/.github/workflows/update.yml
+# https://raw.githubusercontent.com/vicjl/myIPTV/main/.github/workflows/update.yml
+# https://raw.githubusercontent.com/Moexin/IPTV/Files/.github/workflows/Update.yml
 
 name: UpdateIPTV
 
